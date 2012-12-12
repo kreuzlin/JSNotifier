@@ -28,7 +28,7 @@ limitations under the License.
         self.backgroundColor = [UIColor clearColor];
         
         _txtLabel = [[UILabel alloc]initWithFrame:CGRectMake(8, 12, self.frame.size.width - 0, 20)];
-        [_txtLabel setFont:[UIFont fontWithName: @"Helvetica" size: 16]];
+        [_txtLabel setFont:[UIFont fontWithName: @"HelveticaNeue" size: 14]];
         [_txtLabel setBackgroundColor:[UIColor clearColor]];
         
         [_txtLabel setTextColor:[UIColor whiteColor]];
